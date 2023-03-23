@@ -1,4 +1,4 @@
-```c++
+```js
 profile.render();
 "Hello my name is Mousa Ibrahim ,my age is 23 years old , i'm Full-Stack-Dev"
 ```
