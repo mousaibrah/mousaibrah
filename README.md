@@ -31,7 +31,8 @@ const profile = new Profile();
  </a><a href="https://github.com/mousaibrah" target="_blank" rel="noopener noreferrer">
  <img  src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  </a>
-
+ 
+- Or Connect With Me On Gmail -> mousaKibrahim@gmail.com
 ## ⭐ &nbsp;Tech Skills
 
 <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white'/> &nbsp;<img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB'/>
