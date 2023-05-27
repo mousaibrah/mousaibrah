@@ -42,9 +42,9 @@ const profile = new Profile();
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Glass-Geeks&repo=MERAKI_Academy_Project_5&bg_color=0d1116&title_color=fcfeff&text_color=a4aacb&icon_color=f8a92a)](https://github.com/Glass-Geeks/MERAKI_Academy_Project_5)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C7-mousaibrah&repo=JobSeeker&bg_color=0d1116&title_color=fcfeff&text_color=a4aacb&icon_color=f8a92a)](https://github.com/mousaibrah/Pwnagetty)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=C7-mousaibrah&repo=JobSeeker&bg_color=0d1116&title_color=fcfeff&text_color=a4aacb&icon_color=f8a92a)](https://github.com/C7-mousaibrah/JobSeeker)
 &nbsp;
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c7-mousaibrah&repo=MovieRate&bg_color=0d1116&title_color=fcfeff&text_color=a4aacb&icon_color=f8a92a)](https://github.com/mousaibrah/love-lock-card)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=c7-mousaibrah&repo=MovieRate&bg_color=0d1116&title_color=fcfeff&text_color=a4aacb&icon_color=f8a92a)](https://github.com/C7-mousaibrah/MovieRate)
 
 
 &nbsp;
